@@ -1,0 +1,11 @@
+Package: warehousr3
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Michael Schulte
+Maintainer: Michael Schulte <michael@worldclassintegration.comt>
+Description: Functions for streamlined warehousing and distribution analysis.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
